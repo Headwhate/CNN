@@ -1,0 +1,112 @@
+
+ #banner1 {
+ 				display:flex;
+ 				align-items: flex-end;
+ 				flex-direction: row;
+		 	  	background-color:black;
+ 				height: 110px;
+ 				color:white;
+				width:1370px;
+
+			
+		  }
+
+#banner1 a {
+			margin-right: 5px;
+			position: relative;
+			margin-left: 60px;
+		   }
+
+#banner1 .News { margin-left:110px;
+		
+	  }
+ 
+
+.flex 			{
+		
+		display: flex;
+		flex-direction: row;
+		position: relative;
+				}
+
+
+.US { margin-left:440px;
+		height: 10px;
+		align-self: flex-end;	
+	}
+
+
+input {  margin-left: 20px;
+		height: 30px;
+		background-color: #7f7877;
+		align-self: flex-end;
+	  }
+
+table{
+	margin-top: 10px;
+  	border-collapse : collapse;
+ 	width: 340px; 
+ 	border:0;
+	 position: absolute;
+ 	 }
+
+
+ td,th  {
+    border-bottom: 1px solid;
+ 	border-top: 4px;
+ 	border-color:#cecaca;
+	padding: 15px;
+	 	}
+
+
+th{
+	text-align: left ;
+	background-color: #ddd7d7;
+  }
+
+
+
+.trump { height:450px;
+		 width: 976px;
+		margin-left: 360px
+		}
+
+
+.CNN{
+	 	height: 100px;
+		width: 100px;
+		margin-top: 70px;
+		position: absolute;
+	}
+
+
+#banner2{display:flex;
+ 				align-items: center;
+ 				flex-direction: row;
+		    background-color:#ddd7d7;
+			height: 40px;
+			width: 1370px; 
+			margin-bottom: 24px;
+						
+		}
+#banner2 a {position: relative;
+			margin-left: 35px;
+			}
+#banner2 .News { margin-left:110px;}
+
+#banner2 .watch {background-color: red;
+					color: white;
+					height: 30px;
+					width: 150px;
+					padding-top:10px;
+					text-align:  center;
+					margin-left: 200px;}
+
+#banner2 a:hover{background-color:  #1d1aed;
+				 	height: 40px;
+				 	}
+#Foot {	
+		background-color:black;
+		margin-top: 220px;
+ 		height: 150px;
+ 		width: 1370px;}
